@@ -73,7 +73,7 @@ Built as an Android development portfolio project.
 ## Screenshots
 
 ### Home Screen
-![Home Screen](home.jpeg)
+![Home Screen](Screenshot/home.jpeg)
 
 ### Edit Note
 ![Edit Note](edit.jpeg)
