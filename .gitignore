@@ -1,0 +1,26 @@
+
+# Local Android SDK configuration
+local.properties
+
+# Gradle and build files
+.gradle/
+.kotlin/
+build/
+**/build/
+
+# Android Studio local settings
+.idea/
+*.iml
+
+# Crash logs
+hs_err_pid*.log
+
+# Secrets and signing keys
+.env
+.env.*
+secrets.properties
+*.jks
+*.keystore
+
+# Operating system files
+ .DS_Store
