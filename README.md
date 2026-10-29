@@ -69,3 +69,15 @@ GitHub: [@irshadkasiri](https://github.com/irshadkasiri)
 ---
 
 Built as an Android development portfolio project.
+
+## Screenshots
+
+### Home Screen
+![Home Screen](home.jpeg)
+
+### Edit Note
+![Edit Note](edit.jpeg)
+
+### Search Notes
+![Search Notes](search.jpeg)
+
